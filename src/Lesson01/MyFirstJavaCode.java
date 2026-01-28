@@ -6,8 +6,6 @@ public class MyFirstJavaCode {
 
         System.out.println("Goddav du");
 
-        System.out.println("Og godmandag");
-
     }
 
 }
