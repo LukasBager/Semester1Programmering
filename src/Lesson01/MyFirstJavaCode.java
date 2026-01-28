@@ -6,7 +6,7 @@ public class MyFirstJavaCode {
 
         System.out.println("Goddav du");
 
-        System.out.println("Testing git");
+        System.out.println("Testing");
 
     }
 
