@@ -1,6 +1,6 @@
 package Lesson02;
 
-public class HjemmeOpgave {
+public class HjemmeOpgave02 {
 
     public static void main(String[] args) {
 
