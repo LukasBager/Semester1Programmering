@@ -4,7 +4,7 @@ public class TShirtTest {
 
     public static void main(String[] args) {
 
-        TShirt first = new TShirt("green", "M", "Woodstock", 19.99);
+        TShirt first = new TShirt("green", "M", "Woodstock", 19.99, "slim");
 
         // Unødvendigt efter constructor tilføjet
         /*
@@ -17,7 +17,7 @@ public class TShirtTest {
         first.infoAboutShirt();
 
 
-        TShirt second = new TShirt("black", "S", "blank", 29.99);
+        TShirt second = new TShirt("black", "S", "blank", 29.99, "regular");
         second.infoAboutShirt();
 
     }
