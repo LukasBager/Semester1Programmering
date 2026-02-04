@@ -11,7 +11,7 @@ public class AccountTest {
         Account num_1000001 = new Account(1000001, "Lukas Emil Bager", 816.21);
         num_1000001.printAccountInfo();
 
-        System.out.println("Would you like to deposit or withdraw? Answer \"withdraw\" or \"deposit\"");
+        System.out.println("\nWould you like to deposit or withdraw? Answer \"withdraw\" or \"deposit\"");
         String svar = scanner.nextLine().toLowerCase();
 
         if (svar.equals("withdraw")) {
