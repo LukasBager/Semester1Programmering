@@ -7,7 +7,8 @@ public class TShirtTest {
         TShirt first = new TShirt("green", "M", "Woodstock", 19.99);
 
         // Unødvendigt efter constructor tilføjet
-        /*      first.color = "Green";
+        /*
+        first.color = "Green";
         first.size = "M";
         first.print = "Woodstock";
         first.cost = 19.99;
