@@ -1,6 +1,6 @@
 package LegeRundt;
 
-public class ForEach {
+public class ForEachLoop {
 
     public static void main(String[] args) {
 
