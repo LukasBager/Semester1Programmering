@@ -7,7 +7,6 @@ public class TShirtTest {
         TShirt first = new TShirt("green", "M", "Woodstock", 19.99, "slim");
         first.infoAboutShirt();
 
-
         TShirt second = new TShirt("black", "S", "blank", 29.99, "regular");
         second.infoAboutShirt();
 
