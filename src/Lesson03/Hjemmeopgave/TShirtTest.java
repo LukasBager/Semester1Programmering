@@ -5,15 +5,6 @@ public class TShirtTest {
     public static void main(String[] args) {
 
         TShirt first = new TShirt("green", "M", "Woodstock", 19.99, "slim");
-
-        // Unødvendigt efter constructor tilføjet
-        /*
-        first.color = "Green";
-        first.size = "M";
-        first.print = "Woodstock";
-        first.cost = 19.99;
-        */
-
         first.infoAboutShirt();
 
 
